@@ -13,3 +13,4 @@ git remote add origin https://github.com/IrynaArtsiukhova/GitHub-A.git
 `git pull`
 Отправить изменения локального репозитория 
 `git push` 
+Список удаленных репозиториев `git remote`
